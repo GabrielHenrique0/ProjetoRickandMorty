@@ -1,7 +1,10 @@
 # ProjetoRickandMorty
 
 
-![Android](https://logodownload.org/wp-content/uploads/2015/05/android-logo-4.png)
+<p align="center">
+  <img src="[https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif]" alt="Android">
+</p>
+
 
 
 
