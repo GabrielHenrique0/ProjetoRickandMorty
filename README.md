@@ -1,4 +1,5 @@
 # ProjetoRickandMorty
-Trabalho de Programação para Dispositivos Móveis II, disciplina lecionada pelo professor @xandygomes. Nesse projeto, utilizamos uma API pública sobre a série de desenho animado Rick and Morty.
+
+![Descrição da imagem]([https://exemplo.com/caminho/para/imagem.png](https://media.giphy.com/media/VMNDJtI3WH6Lu/giphy.gif))
 
 Por Gabriel Henrique Rodrigues Caldeira e Nickolas Martins Machado.
