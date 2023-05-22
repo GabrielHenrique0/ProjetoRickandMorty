@@ -1,8 +1,8 @@
 # ProjetoRickandMorty
 
 
-<p align="center" width="50px">
-  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Android">
+<p align="center">
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Android" width="150px">
 </p>
 
 
