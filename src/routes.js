@@ -3,9 +3,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import Main from './pages/main';
 import Login from './pages/login';
-import User from './pages/character';
 import SignUp from './pages/signup';
-import { Name } from './pages/styles';
 import Character from './pages/character';
 
 const Stack = createStackNavigator();
