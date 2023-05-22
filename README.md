@@ -1,6 +1,6 @@
 # ProjetoRickandMorty
 
-![Android]([https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif])
+![Android]([https://th.bing.com/th/id/OIP.ggBekbv5DnfU3dOH-6VE0gHaHa?pid=ImgDet&rs=1])
 
 Por Gabriel Henrique Rodrigues Caldeira e Nickolas Martins Machado
 
