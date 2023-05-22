@@ -1,7 +1,7 @@
 # ProjetoRickandMorty
 
 <div style="text-align: center;">
-  ![Android]([caminho/para/imagem.png](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif))
+  ![Android](https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif)
 </div>
 
 
