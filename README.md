@@ -1,5 +1,7 @@
 # ProjetoRickandMorty
 
-![Descrição da imagem]([https://exemplo.com/caminho/para/imagem.png](https://media.giphy.com/media/VMNDJtI3WH6Lu/giphy.gif))
+![Android]([(https://media.giphy.com/media/VMNDJtI3WH6Lu/giphy.gif)])
 
-Por Gabriel Henrique Rodrigues Caldeira e Nickolas Martins Machado.
+Por Gabriel Henrique Rodrigues Caldeira e Nickolas Martins Machado
+
+DSM - 5º ciclo
